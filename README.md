@@ -5,6 +5,6 @@
 
 
 
-## 🌐Socials
+<!-- ## 🌐Socials
 [<img  width="40"  src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left" >][linkedin]
-[linkedin]: https://www.linkedin.com/in/tuba-türkoğlu-a9a89727/
+[linkedin]: https://www.linkedin.com/in/tuba-türkoğlu-a9a89727/ -->
